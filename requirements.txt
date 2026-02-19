@@ -1,0 +1,4 @@
+flask
+requests
+pyspark
+kafka-python
